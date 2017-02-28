@@ -5,4 +5,3 @@ It needs to be done so files can be added to it.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It holds files that will be copied to repository and enables you to create initial snapshot of the repository.
 
-Ovo je test za commit
